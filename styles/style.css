@@ -1,0 +1,85 @@
+.image{
+    width: auto;
+    height: 30px;
+}
+.searchbar-container{
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    border-color:#5597DA;
+    padding: 10px;
+}
+input {
+    background-color: transparent;
+    border: 0px solid;
+    height: 40px;
+    width: 240px;
+    color: #CCC;
+    margin-left: 12px;
+    font-size: 16px;
+}
+.image-move{
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 12px ;
+}
+.taitle-name-product{
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.previous-price{
+    color: gray;
+    text-decoration: line-through;
+}
+.horijontal-line{
+    height: 5px;
+    color: rgb(66, 65, 65);
+}
+.pick-up-line{
+    color: rgb(100, 4, 168);
+}
+.text-heding{
+    font-family: cursive;
+}
+.text{
+    font-size: 24px;
+}
+.rater-name{
+    font-weight: 700;
+    font-family:Montserrat; 
+}
+.checked {
+    color: orange;
+}
+.rating{
+    font-size: 20px;
+    font-weight: 700;
+}
+.rating-comment{
+    color: #5597DA;
+    font-family:Montserrat;
+}
+.button{
+    font-size: 50px;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.button-add{
+    color: #F26107;
+    border-color: #F26107;
+}
+.button-add:hover{
+    color: white;
+    background-color: #F26107;
+    box-shadow: 4px 6px #888888;
+}
+.button-buy{
+    color: white;
+    background-color: #F26107;
+}
+.button-buy:hover{
+    color: #F26107;
+    background-color:white;
+    border-color: #F26107;
+    box-shadow: 4px 6px #888888;
+}
