@@ -7,13 +7,13 @@
     border-style: solid;
     border-width: 2px;
     border-color:#5597DA;
-    padding: 10px;
+    padding: 8px;
 }
 input {
     background-color: transparent;
     border: 0px solid;
     height: 40px;
-    width: 240px;
+    width: 200px;
     color: #CCC;
     margin-left: 12px;
     font-size: 16px;
@@ -60,7 +60,7 @@ input {
     font-family:Montserrat;
 }
 .button{
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 700;
     border-radius: 10px;
 }
